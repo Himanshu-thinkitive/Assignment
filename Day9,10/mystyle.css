@@ -1,0 +1,48 @@
+/*body {
+    background-image: url('apple.jpg');
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}*/
+
+div {
+    color: aqua;
+    background-color: brown;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 1%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+pr {
+    color: darkgoldenrod;
+    font-weight: bolder;
+    font-size: small;
+}
+
+.playWithText {
+    color: darkgreen;
+    background-color: darkgrey;
+    font-size: xx-large;
+    text-align: center;
+    text-shadow: 5px 5px darkorange;
+    opacity: 1;
+}
+
+.mydiv1 {
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 300px;
+    float: left;
+    width: 100px;
+    box-shadow: darkturquoise;
+    border-radius: 3px 3px;
+}
+
+login {
+    float: left;
+}
+
+Register {
+    float: right;
+}
